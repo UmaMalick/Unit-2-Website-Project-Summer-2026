@@ -1,0 +1,25 @@
+body {
+  background: #bfabd3
+}
+h1 {
+  color: darkblue;
+  font-family: cursive;
+  font-size: 40;
+  text-shadow: -2px, 2px, 4px, black;
+}
+h2 {
+  color: darkblue;
+}
+h3 {
+   color: darkblue;
+  word-spacing: 1px;
+}
+p {
+  word-spacing: 2px;
+}
+.straightplays {
+  background-color: #80e5ff;
+  border-style: dashed;
+  color: black;
+}
+
