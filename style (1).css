@@ -1,0 +1,60 @@
+body {
+    background-color: #dac2f2;
+}
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #246a78;
+    text-decoration: underline;
+}
+h2 {
+    text-align: center;
+    color: #0a3670;
+    font-size: 28;
+}
+h3 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: #0a3670;
+    font-size: 22;
+    border-style: dotted;
+}
+img {
+    display: block;
+    margin: auto;
+}
+iframe {
+    display: block;
+    margin: auto;
+}
+.camera {
+    border: #246a78;
+    border-width: 7;
+    border-style: solid;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-color: #0a3670;
+    border-width: 5;
+    background-color: #cde0fa;
+}
+.aboutme {
+    order: 2;
+}
+.home {
+    order: 1;
+}
+.growth {
+    order: 3;
+}
+.best {
+    order: 4;
+}
+.future {
+    order: 5;
+}
